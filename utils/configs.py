@@ -30,14 +30,14 @@ class Var(object):
 class Tr(object):
 
     START_TEXT = """
-👋 Hi ! {} Welcome To @ImgBBRobot
+👋 Hi ! {} Welcome To @Imgbb_bot
 
 **With This Bot You Can Hosts Your Images On imgbb.com **
 
 You Can Send An Image As Forwarded Message From Any Chat/Channel Or Upload It As Photo Or File.
 """
 
-    ABOUT_TEXT = """🤖 **My Name:** [ImgBB](t.me/ImgBBRobot)
+    ABOUT_TEXT = """🤖 **My Name:** [ImgBB](t.me/@imgbb_bot)
 
 📝 **Language:** [Python 3](https://www.python.org)
 
@@ -45,21 +45,21 @@ You Can Send An Image As Forwarded Message From Any Chat/Channel Or Upload It As
 
 📡 **Hosted On:** [Railway](railway.app)
 
-👨‍💻 **Developer:** [Amine Soukara](t.me/AmineSoukara)
+👨‍💻 **Developer:** [Being Ramesh](t.me/Rksowner)
 
 💡 **Source Code:** [Github](https://github.com/AmineSoukara/ImgBB-Bot/fork)
 
-👥 **Support Group:** [Damien Help](https://t.me/DamienHelp)
+👥 **Support Group:** [Rks Help](https://t.me/+9UIG-51jj442ZWM1)
 
-📢 **Updates Channel:** [Damien Soukara](https://t.me/DamienSoukara)
+📢 **Updates Channel:** [Being Ramesh](https://t.me/rksmoviez)
 
 
-❤ [Donate](https://www.paypal.me/AmineSoukara) (PayPal)
+❤ [Donate](https://www.paypal.me/Rameshkusahu) (PayPal)
 """
 
     HELP_TEXT = """💡 Just Send Me Your Photo And I'll Upload it To You .  That's it
 
-❤ [Donate](https://www.paypal.me/AmineSoukara) (PayPal)
+❤ [Donate](https://www.paypal.me/Rameshkusahu) (PayPal)
 """
 
     ERR_TEXT = "⚠️ API Not Found"
