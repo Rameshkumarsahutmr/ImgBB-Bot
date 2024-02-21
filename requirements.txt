@@ -1,4 +1,4 @@
-pyrogram==2.0.106
+pyrogram==1.2.9
 tgcrypto==1.2.2
 pyromod==1.5
 imgbbpy==0.1.3
