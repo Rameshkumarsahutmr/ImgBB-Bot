@@ -25,7 +25,7 @@
 # Star 🌟 Fork 🍴 & Deploy
 
 ### -Easy Way
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/AmineSoukara/ImgBB-Bot/tree/main)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Rameshkumarsahutmr/ImgBB-Bot/tree/main)
 
 ### -Self-hosting (For Devs)
 
