@@ -186,7 +186,7 @@ async def getimglink(c, m):
     if m.document:
         if not m.document.file_name.endswith(ext):
             return
-    await m.reply_chat_action("typing")
+   # await m.reply_chat_action("typing")
     BTN = ikb(
         [
             [
