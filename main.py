@@ -7,7 +7,7 @@ import traceback
 import imgbbpy
 import pyromod.listen
 from pyrogram import Client, filters
-from pyrogram.types import ChatAction  # Update this import
+from pyrogram import ChatAction  # Import ChatAction
 from pyromod.helpers import ikb
 
 from utils.configs import Tr, Var
